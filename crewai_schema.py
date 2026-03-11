@@ -1,0 +1,21 @@
+FIELDS = [
+    "PMCID",
+    "Authors",
+    "Title",
+    "Journal",
+    "Publication year",
+    "Species examined in the research",
+    "total number of samples examined; Population Samples per species",
+    "Mentions selective sweeps or selection events (Yes/No)",
+    "Mentions the type of selection (e.g., purifying selection, hard sweep, soft sweep, balancing selection, polygenic selection, adaptive introgression etc.)",
+    "Selective sweep detection methods",
+    "Mentions selection coefficient (Yes/No)",
+    "Selection coefficient value",
+    "Mentions Soft sweeps and what are their Soft sweep detection tools",
+    "Mentions GO enrichment analysis (Yes/No)",
+    "Mentioned GO terms and what are they (if applicable)",
+    "Genes mentioned (all specific gene names)",
+    "Genes found in selective sweeps",
+    "Mentions polygenic selection (Yes/No)",
+    "Specific Traits for examine polygenic selection (if applicable)"
+]
